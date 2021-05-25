@@ -31,10 +31,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-for/blob/main/print1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-exercises/blob/main/2.png" width="248">
 </p>
  
-It's a simple app, only to study loops 
+It's a simple app, only to study swift
 
 
 <!-- GETTING STARTED -->
